@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: snow;
+    font-family: 'pattaya', cursive;
+    
+}
+.main{
+    border: 1px;
+    width: 130px;
+    height: 180px;
+    float: left;
+    margin: 10px;
+}
+.sp{
+    background-color: springgreen;
+    margin-left: 29%;
+}
+.bl{
+    background-color: blue;
+}
+.br{
+    background-color: brown;
+}
+.ch{
+    background-color: chartreuse;
+}
+.ca{
+    background-color: cadetblue;
+    margin-right: 24%;
+}
+.bu{
+    background-color: burlywood;
+    margin-left: 21%;
+}
+.aq{
+    background-color: aqua;
+}
+.ye{
+    background-color: yellow;
+}
+.bla{
+    background-color: blanchedalmond;
+}
+.cad{
+    background-color: cadetblue;
+}
+.aqu{
+    background-color: aquamarine;
+}
+.cri{
+    background-color: crimson;
+    margin-right: 14%;
+    
+}
+.cy{
+    background-color: cyan;
+    margin-left: 13%;
+    
+}
+.da{
+    background-color: darkorange;
+}
+.dar{
+    background-color: darkred;
+}
+.dark{
+    background-color: darkviolet;
+}
+.fuc{
+    background-color: fuchsia;
+}
+.gre{
+    background-color: green;
+}
+.gol{
+    background-color: goldenrod;
+}
+.fi{
+    background-color: firebrick;
+}
+.gr{
+    background-color: gray;
+}

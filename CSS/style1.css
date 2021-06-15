@@ -1,0 +1,19 @@
+/*
+
+tagname{
+    property:value;
+    property2:value;
+
+*/
+h1{
+    color:red;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2{
+    color:rgb(235, 201, 52);
+}
+h3{
+    color:#3c992e;
+}
