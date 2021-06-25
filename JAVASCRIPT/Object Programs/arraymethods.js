@@ -48,3 +48,13 @@ console.log(cubes);
 //prnt all even nmbr %2==0
 var evens=arr.filter(num=>num%2==0)
 console.log(evens);
+
+
+
+
+//forEach
+var arr=[10,20,30,40]
+//for(let num of arr){
+//   console.log(num);
+//}
+arr.forEach(num=>console.log(num))
